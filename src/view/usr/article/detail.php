@@ -47,7 +47,7 @@ $body = ToastUiEditor__getSafeSource($article['body']);
       }
       </style>
       <script src="https://utteranc.es/client.js"
-        repo="jhs512/bbb_oa_gg_comment"
+        repo="jtj3107/php_blog_2021_new_comment"
         issue-term="og:title"
         theme="github-light"
         crossorigin="anonymous"
