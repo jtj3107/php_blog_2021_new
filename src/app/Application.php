@@ -45,8 +45,8 @@ class Application
 
         if ($envCode == 'dev') {
             $dbHost = "127.0.0.1";
-            $dbId = "geotjeoli";
-            $dbPw = "gjl123414";
+            $dbId = "sbsst";
+            $dbPw = "sbs123414";
             $dbName = "php_blog_2021";
         } else {
             $dbHost = "127.0.0.1";
